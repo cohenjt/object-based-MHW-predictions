@@ -1,10 +1,10 @@
 # object-based-MHW-predictions
 Code accompanying "Object-Based Evaluation of Seasonal-to-Multiyear Marine Heatwave Predictions" in _Geophysical Research Letters_.
 
-### Citation
+## Citation
 Cohen, J. T., Thompson, L., Maroon, E., Deppenmeier, A., Cai, C., Object-based evaluation of seasonal-to-multiyear marine heatwave predictions, _submitted to GRL_
 
-# Repository structure
+## Repository structure
 
 - `MODE_scripts`
     - Contains example scripts for performing object-based MHW verification with MODE on NCAR's Casper machine.
